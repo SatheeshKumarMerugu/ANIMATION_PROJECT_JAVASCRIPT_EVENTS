@@ -1,2 +1,2 @@
 # ANIMATION_PROJECT_JAVASCRIPT_EVENTS
-This is an animation project by using Javascrips events.
+Moving Car CSS Animation Using HTML/CSS/JavaScript
